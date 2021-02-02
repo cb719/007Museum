@@ -18,4 +18,18 @@ nav{
     color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 5px;
+    font-size: 48px;
+}
+
+.nav-links{
+    display: flex;
+    color: #ffffff;
+    background-color: #000000;
+    justify-content: space-around;
+    width: 30%;
+}
+.nav-links a{
+    color: #ffffff;
+    text-decoration: none;
+    letter-spacing: 3px;
 }
